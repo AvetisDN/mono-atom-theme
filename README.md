@@ -5,4 +5,4 @@ Happy Code 🔥
 
 ## Mono Atom Screenshots
 
-![Mono Atom]()
+![Mono Atom](https://i.imgur.com/drYxI82.png)
