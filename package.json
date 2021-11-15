@@ -1,0 +1,39 @@
+{
+    "name": "mono-atom",
+    "displayName": "Mono-Atom",
+    "description": "Theme based on mix of Monokai and Atom One Dark palettes",
+    "version": "0.0.1",
+    "publisher": "Avetis",
+    "author": {
+        "name": "AvetisDN",
+        "email": "avetisdn@gmail.com"
+    },
+    "icon": "icon/mono.png",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "keywords": [
+        "theme",
+        "color-theme",
+        "dark theme",
+        "onedark",
+        "atom",
+        "monokai"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AvetisDN/mono-atom-theme"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mono Atom",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mono-atom.json"
+            }
+        ]
+    }
+}
