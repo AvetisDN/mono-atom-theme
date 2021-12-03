@@ -32,14 +32,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Mono Atom Blueish",
-                "uiTheme": "vs-dark",
-                "path": "./themes/mono-atom-blueish.json"
-            },
-            {
                 "label": "Mono Atom",
                 "uiTheme": "vs-dark",
                 "path": "./themes/mono-atom.json"
+            },
+            {
+                "label": "Mono Atom Blueish",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mono-atom-blueish.json"
             }
         ]
     }
